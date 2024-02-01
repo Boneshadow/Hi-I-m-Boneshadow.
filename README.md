@@ -7,4 +7,4 @@
   <h3 align="center">Hi, I'm Boneshadow.</h3>
 
   <p align="center">
-    <a href="https://github.com/Boneshadow/ReadME"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Boneshadow/Hi-I-m-Boneshadow./blob/main/README.md"><strong>Explore the docs »</strong></a>
