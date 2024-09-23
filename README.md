@@ -22,3 +22,7 @@ I'm always looking for opportunities to contribute to open-source projects. If y
 ---
 
 <p align="center">
+  <a href="https://discord.gg/4VAEHGcSeY" target="_blank"><img src="https://i.pinimg.com/originals/e4/96/0c/e4960c1d084132279f17ca869846c00c.gif" alt="Discord" width="30" height="30"></a>
+</p>
+
+<p align="center">
