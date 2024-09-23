@@ -1,31 +1,14 @@
 <p align="center">
-  <a href="https://github.com/Boneshadow">
-    <img src="https://cdn.pixelbin.io/v2/dummy-cloudname/erase.bg(shadow:true)~t.resize(w:675)/__editor/__erase_bg/2024-2-1/png-clipart-shadow-the-hedgehog-sonic-free-riders-sonic-riders-the-crocodile-logo-shadow-mammal-animals.png?download=true" alt="Logo" width="80" height="80">
-  </a>
 
-  <h3 align="center">Hi, I'm Boneshadow, a Software Developer </h3>
-
-  <p align="center">
-    <a href="https://github.com/Boneshadow/Hi-I-m-Boneshadow./blob/main/README.md"><strong>Explore the docs »</strong></a>
-    <br/>
-    <br/>
-  </p>
-</p>
+  <h3 align="center">Hi, I'm Boneshadow</h3>
 
 <p align="center">
-  <img src="https://cdn.pixelbin.io/v2/dummy-cloudname/erase.bg(shadow:true)~t.resize(w:675)/__editor/__erase_bg/2024-2-1/png-clipart-shadow-the-hedgehog-sonic-free-riders-sonic-riders-the-crocodile-logo-shadow-mammal-animals.png?download=true" alt="Logo" width="250" height="250">
+  <img src="https://i.pinimg.com/originals/e2/7f/06/e27f0687d27757269f430f31ab796be4.jpg" alt="Logo" width="250" height="250">
 </p>
 
 ##  About Me
 
 I'm a passionate software developer with a focus on [your area of expertise, e.g., web development, mobile apps, AI]. I enjoy solving complex problems and creating innovative solutions.
-
-##  Skills
-
-* **Languages:** JavaScript, Python, C++, HTML, CSS
-* **Frameworks:** React, Node.js, Django
-* **Databases:** MySQL, MongoDB
-* **Tools:** Git, Docker
 
 ##  Stats
 
