@@ -3,7 +3,7 @@
   <h3 align="center" style="color: #663399; font-family: 'Times New Roman', serif; font-weight: bold;">Hi, I'm Boneshadow 💀</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b9/b1/64/b9b164c885b72f2a2ad2619c4d8b0ce6.jpg" alt="Logo" width="250" height="250" style="border: 3px solid #663399;">
+  <img src="https://i.pinimg.com/originals/b3/7f/1c/b37f1c3627e2259afdd71b9af6b33b3e.jpg" alt="Logo" width="250" height="250" style="border: 3px solid #663399;">
 </p>
 
 ##  About Me 🦇
