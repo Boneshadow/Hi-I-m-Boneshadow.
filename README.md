@@ -31,7 +31,6 @@ I'm a passionate software developer with a focus on [your area of expertise, e.g
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Boneshadow&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Boneshadow's Github stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boneshadow&layout=compact&langs_count=7&theme=tokyonight" alt="Boneshadow's top languages"/>
 
 ##  Contributions
 
