@@ -3,7 +3,7 @@
   <h3 align="center">Hi, I'm Boneshadow</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e2/7f/06/e27f0687d27757269f430f31ab796be4.jpg" alt="Logo" width="250" height="250">
+  <img src="https://i.pinimg.com/originals/b9/b1/64/b9b164c885b72f2a2ad2619c4d8b0ce6.jpg" alt="Logo" width="250" height="250">
 </p>
 
 ##  About Me
