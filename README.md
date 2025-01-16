@@ -18,8 +18,13 @@ I'm a passionate software developer 💻 specializing in **[your area of experti
 ## GitHub Statistics 📊
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Boneshadow&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Boneshadow's GitHub Stats">
-  <br>
+
+![Boneshadow's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boneshadow&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+<br>
+![Boneshadow's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Boneshadow&theme=tokyonight)
+<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Boneshadow&layout=compact&theme=tokyonight)
+
 </div>
 
 ---
