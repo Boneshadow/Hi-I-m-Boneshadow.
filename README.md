@@ -32,3 +32,11 @@ I'm a passionate software developer 💻 specializing in **[your area of experti
 ## Contributions ➕
 
 I'm always looking for opportunities to contribute to open-source projects 📂. If you have projects that need a little secret magic ✨, feel free to reach out.
+
+---
+
+## Fun Fact 🎉
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=68F7A4&background=2E3440&center=true&vCenter=true&width=500&height=50&lines=Turning+coffee+into+code+since+2015;Always+learning+something+new;Powered+by+dark+magic+%F0%9F%94%AA;Building+the+future%2C+one+line+at+a+time" alt="Typing SVG">
+</div>
