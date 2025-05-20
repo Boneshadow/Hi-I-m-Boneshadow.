@@ -1,42 +1,52 @@
-<div align="center">
-  <h1>Hello, I'm Boneshadow 👋</h1>
-  <p>Developer | Innovator | Problem Solver</p>
-</div>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/b3/7f/1c/b37f1c3627e2259afdd71b9af6b33b3e.jpg" alt="Boneshadow Logo" width="180" style="border-radius: 50%; border: 4px solid #2E3440;">
+</p>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/b3/7f/1c/b37f1c3627e2259afdd71b9af6b33b3e.jpg" alt="Boneshadow Logo" width="250" height="250" style="border-radius: 50%; border: 4px solid #2E3440;">
-</div>
+<h1 align="center" style="color:#68F7A4;">🖤 Hi, I'm Boneshadow!</h1>
+<p align="center">
+  <b>Developer</b> | <b>Innovator</b> | <b>Problem Solver</b>
+</p>
 
----
+<hr style="border: 1px solid #2E3440;">
 
-## About Me ✨
+<h2 align="center">✨ About Me</h2>
 
-I'm a passionate software developer 💻 specializing in **[your area of expertise, e.g., web development 🌐, mobile applications 📱, AI 🤖]**. I enjoy tackling complex challenges 🧩 and building innovative solutions 🚀. My code is dark 🖤, elegant, and efficient, like a well-crafted spell.
+<p align="center">
+  I am a passionate developer specializing in <b>web development</b> and <b>AI</b>.<br>
+  I love tackling complex problems and finding creative solutions.<br>
+  I enjoy building new and useful things! 🚀
+</p>
 
----
+<hr style="border: 1px solid #2E3440;">
 
-## GitHub Statistics 📊
+<h2 align="center">📊 GitHub Statistics</h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Boneshadow&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Boneshadow's GitHub Stats" height="180">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Boneshadow&theme=tokyonight&hide_border=true" alt="Boneshadow's Streak Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boneshadow&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180">
+</p>
 
-![Boneshadow's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boneshadow&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-<br>
-![Boneshadow's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Boneshadow&theme=tokyonight)
-<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Boneshadow&layout=compact&theme=tokyonight)
+<hr style="border: 1px solid #2E3440;">
 
-</div>
+<h2 align="center">🤝 Contacts & Socials</h2>
 
----
+<p align="center">
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/email-2E3440?style=for-the-badge&logo=gmail&logoColor=68F7A4&labelColor=2E3440&color=2E3440"></a>
+  <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-2E3440?style=for-the-badge&logo=telegram&logoColor=68F7A4&labelColor=2E3440&color=2E3440"></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-2E3440?style=for-the-badge&logo=linkedin&logoColor=68F7A4&labelColor=2E3440&color=2E3440"></a>
+</p>
 
-## Contributions ➕
+<hr style="border: 1px solid #2E3440;">
 
-I'm always looking for opportunities to contribute to open-source projects 📂. If you have projects that need a little secret magic ✨, feel free to reach out.
+<h2 align="center">🎉 Fun Fact</h2>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=68F7A4&background=2E3440&center=true&vCenter=true&width=500&height=50&lines=Turning+coffee+into+code+since+2020+☕💻" alt="Fun Fact">
+</p>
 
-## Fun Fact 🎉
+<hr style="border: 1px solid #2E3440;">
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=68F7A4&background=2E3440&center=true&vCenter=true&width=500&height=50&lines=Turning+coffee+into+code+since+2015;Always+learning+something+new;Powered+by+dark+magic+%F0%9F%94%AA;Building+the+future%2C+one+line+at+a+time" alt="Typing SVG">
-</div>
+<p align="center">
+  <b>Always open to new projects and interesting conversations!</b>
+</p>
